@@ -1,6 +1,6 @@
 # Feven M. Naba
 
-Hi, my name is Feven Naba. I’m from Ethiopia and a PhD student in Mechanical Engineering at Stanford. I find joy in understanding the physical world and its laws—but even greater joy in sharing that understanding with others and utilizing it to design devices that serve the needs of my community, both far and near.
+ሰላም! Hi, my name is Feven Naba. I’m from Ethiopia and a PhD student in Mechanical Engineering at Stanford. I find joy in understanding the physical world and its laws—but even greater joy in sharing that understanding with others and utilizing it to design devices that serve the needs of my community, both far and near.
 
 My research interests lie at the intersection of photonics, medical devices, and public health. I hope to contribute to the improvement of medicine and public health both on a local and global scale.
 
