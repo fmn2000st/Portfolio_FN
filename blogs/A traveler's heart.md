@@ -2,7 +2,7 @@
 
 > “I seek a place that can never be destroyed, one that is pure, and that fadeth not away, and it is laid up in heaven, and safe there, to be given, at the time appointed, to them that seek it with all their heart.”
 
-> –John Bunyan
+> –John Bunyan 
 <div style="column-count: 2; column-gap: 20px;">
   As I poured out my anguish, sharing the pain of not seeing my family for over three years, my friend paused and gently asked, “What does home mean to you?”. The memory of that conversation as we walked by the Columbia Law School on West 116th Street still lingers in my mind, vivid and clear as if it happened just yesterday. At that time, it had been over three years since I last set foot in Ethiopia due to the COVID-19 travel restrictions and the subsequent civil war. This seemingly simple yet profoundly thoughtful question continues to echo in my mind, stirring a well of hidden emotions and prompting this particular reflection. 
 </div>
