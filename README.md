@@ -18,4 +18,4 @@ I’m also a Knight-Hennessy Scholar and an EDGE Fellow at Stanford. Outside of 
   2. Kikkeri, K., Naba, F. M., & Voldman, J. (2023). Rapid, low-cost fabrication of electronic microfluidics via inkjet-printing and xurography (MINX). Biosensors and Bioelectronics, 237, 115499. https://doi.org/10.1016/j.bios.2023.115499
 
 ### Blogpost
-- [A Traveller's Heart] (https://github.com/fmn2000st/Portfolio_FN/blob/1c5207a77ba886b1fbeb9108bb531931bbee869d/blogs/A%20traveler's%20heart)
+- [A Traveller's Heart] (https://github.com/fmn2000st/Portfolio_FN/blob/e81a81932db5514b454dd9eec5f2958cbb467b4d/blogs/A%20traveler's%20heart.md)
