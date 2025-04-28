@@ -1,4 +1,4 @@
-# FN_Portfolio
+# Feven M. Naba
 
 Hi, my name is Feven Naba. I’m from Ethiopia and a PhD student in Mechanical Engineering at Stanford. I find joy in understanding the physical world and its laws—but even greater joy in sharing that understanding with others and utilizing it to design devices that serve the needs of my community, both far and near.
 
