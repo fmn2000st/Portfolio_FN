@@ -14,6 +14,8 @@ I’m also a Knight-Hennessy Scholar and an EDGE Fellow at Stanford. Outside of 
 
 ### Research
 - Publications
+  1. Radloff, G. H. C., Naba, F. M., Ocran-Sarsah, D. B., et al. (2021). Fabrication and characterization of highly efficient dye-sensitized solar cells with composited dyes. International Symposium on Molecular Spectroscopy. https://hdl.handle.net/2142/111378
+  2. Kikkeri, K., Naba, F. M., & Voldman, J. (2023). Rapid, low-cost fabrication of electronic microfluidics via inkjet-printing and xurography (MINX). Biosensors and Bioelectronics, 237, 115499. https://doi.org/10.1016/j.bios.2023.115499
 
 ### Blogpost
 - A Traveller's Heart
